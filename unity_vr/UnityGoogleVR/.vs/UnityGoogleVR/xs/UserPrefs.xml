@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{31290217-A2CB-301D-262C-8CA80C1F65B1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Demos/Scripts/HelloVR/HelloVRManager.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/HelloVRManager.cs" Line="1" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UnityGoogleVR PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
